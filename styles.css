@@ -211,7 +211,7 @@ span {
 
     #banner {
         background-position: 50%;
-        margin-bottom: 390px;
+        margin-bottom: 470px;
     }
 
     #trailer-container {
@@ -251,7 +251,7 @@ span {
 
     .cards-content {
         grid-template-columns: 1fr;
-        margin-top:400px;
+        margin-top:450px;
 
     }
 
